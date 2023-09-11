@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://johnaziz.vercel.app" target=_blank><h1 align="center">https://johnaziz.vercel.app</h1></a>
+    <h1 align="center">[johnaziz.vercel.app](https://johnaziz.vercel.app)</h1>
 
 My personal website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Contentlayer](https://www.contentlayer.dev/) and deployed to [Vercel](https://vercel.com/).
 
