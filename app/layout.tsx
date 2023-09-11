@@ -6,18 +6,18 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
 	title: {
 		default: "John Aziz",
-		template: "%s | johnaziz.com",
+		template: "%s | johnaziz.vercel.app",
 	},
 	description: "Session Lead at Udacity and Gold Microsoft Learn Student Ambassador",
 	openGraph: {
-		title: "johnaziz.com",
+		title: "johnaziz.vercel.app",
 		description:
 			"Session Lead at Udacity and Gold Microsoft Learn Student Ambassador",
-		url: "https://johnaziz.com",
-		siteName: "johnaziz.com",
+		url: "https://johnaziz.vercel.app",
+		siteName: "johnaziz.vercel.app",
 		images: [
 			{
-				url: "https://johnaziz.com/og.png",
+				url: "https://johnaziz.vercel.app/og.png",
 				width: 1920,
 				height: 1080,
 			},
